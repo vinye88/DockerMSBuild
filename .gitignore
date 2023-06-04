@@ -1,0 +1,8 @@
+*.pdb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.iobj
+*.ipdb
+*.obj
+*.exe
